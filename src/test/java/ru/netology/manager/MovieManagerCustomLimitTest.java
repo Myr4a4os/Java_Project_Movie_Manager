@@ -1,8 +1,7 @@
-// src/test/java/ru/netology/manager/MovieManagerCustomLimitTest.java
-
 package ru.netology.manager;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class MovieManagerCustomLimitTest {

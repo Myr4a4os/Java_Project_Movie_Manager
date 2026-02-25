@@ -1,5 +1,3 @@
-// src/main/java/ru/netology/manager/MovieManager.java
-
 package ru.netology.manager;
 
 public class MovieManager {
